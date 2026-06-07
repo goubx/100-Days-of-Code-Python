@@ -20,3 +20,4 @@ Each project is organized into its own folder. Every folder includes a main.py f
 | 4 | Rock Paper Scissors | Random module, conditionals |
 | 5 | Random Password Generator | Loops, lists, random module |
 | 6 | Lost in a Maze | Functions, loops, conditionals |
+| 7 | Hangman | Strings, input, loops, lists |
